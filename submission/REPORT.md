@@ -5,7 +5,7 @@ Phần phân tích tối đa một trang, không tính output ở phần 5.
 
 **Họ tên / MSSV:** Lê Minh Hiếu / 2A202602848
 **Repo:** `https://github.com/HieuLM7714/K4-Track02-Day17-LeMinhHieu-2A202602848-DataPipelineEngineering`
-**Commit bài nộp:** `<commit hash>`
+**Commit bài nộp:** d121bf2
 **AI đã dùng và phạm vi hỗ trợ (hoặc không dùng):** Claude Code (Claude Opus) — đọc code, chạy pipeline/verify, đề xuất 3 cách sửa và nháp REPORT; tôi đã review và giải thích được từng dòng sửa.
 **Nguồn tham khảo khác (nếu có):** slide Day 17; tài liệu Debezium (định dạng envelope); DuckDB `MERGE INTO`.
 
